@@ -1,5 +1,9 @@
 public class Operations {
 
+    public static void main (String[] args){
+        
+    }
+    
     public long addition (long a, long b){
         return a+b;
     }
