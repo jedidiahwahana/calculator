@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Calculator" skipped="0" tests="4" time="0.61" timestamp="2018-12-07 04:15:23"><testcase name="scenario addition"/><testcase name="scenario subtraction"/><testcase name="scenario multiplication"/><testcase name="scenario division"/></testsuite>

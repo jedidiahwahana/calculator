@@ -1,5 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Calculator","scenario addition","SUCCESS","2018-12-07T16:15:23.910137+07:00[Asia/Jakarta]","0.0","0.44"
-"Calculator","scenario subtraction","SUCCESS","2018-12-07T16:15:24.484494+07:00[Asia/Jakarta]","0.0","0.04"
-"Calculator","scenario multiplication","SUCCESS","2018-12-07T16:15:24.52516+07:00[Asia/Jakarta]","0.0","0.08"
-"Calculator","scenario division","SUCCESS","2018-12-07T16:15:24.61095+07:00[Asia/Jakarta]","0.0","0.06"
